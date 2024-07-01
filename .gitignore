@@ -66,3 +66,5 @@ es_data
 Thumbs.db
 
 
+# Maven
+target
